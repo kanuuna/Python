@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  8 15:51:59 2020
 
-@author: Antti
+
 """
 
 import requests
