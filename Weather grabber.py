@@ -2,7 +2,6 @@
 """
 Created on Sat Oct 10 14:33:56 2020
 
-@author: Antti
 
 This program grabs weather data from UK Meteorological Office
 """
