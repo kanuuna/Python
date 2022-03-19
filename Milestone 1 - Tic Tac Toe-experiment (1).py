@@ -184,7 +184,7 @@ def tic_tac():
     row2 = [' ',' ',' ']
     row3 = [' ',' ',' ']
     
-    print("Welcome to Antti's Tic Tac Toe!" )
+    print("Welcome to kanuuna's Tic Tac Toe!" )
     game_display()
     
     
